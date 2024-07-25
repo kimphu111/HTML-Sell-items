@@ -45,7 +45,11 @@ header {
 }
 
 .navmenu a:hover {
-    color: #ff0000;
+    color: #dc3545;
+}
+
+.navmenu i:hover{
+    color: #dc3545;
 }
 
 .navmenu i {
@@ -75,8 +79,9 @@ header {
     height: 40px;
 }
 
+
 .nav-icon i:hover {
-    color: #ff0000;
+    color: #868686;
 }
 
 .hot-style {
